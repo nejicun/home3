@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+.card-body-stars {
+  display: flex;
+  list-style: none;
+}
+
